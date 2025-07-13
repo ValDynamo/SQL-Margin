@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.MarginSKU", "API.MarginSKU\API.MarginSKU.csproj", "{074AC1C7-02BB-4E5E-9847-410A9060F559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074AC1C7-02BB-4E5E-9847-410A9060F559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074AC1C7-02BB-4E5E-9847-410A9060F559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074AC1C7-02BB-4E5E-9847-410A9060F559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074AC1C7-02BB-4E5E-9847-410A9060F559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {325279BD-0838-44C8-80B6-0E1E90C20BC5}
+	EndGlobalSection
+EndGlobal
